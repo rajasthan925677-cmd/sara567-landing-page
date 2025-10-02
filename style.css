@@ -104,18 +104,3 @@ h1, h2 {
     padding-left: 10px; /* लिस्ट आइटम में इंडेंट */
 }
 
-
-.large-download-btn {
-    padding: 15px 30px; /* ऊंचाई और चौड़ाई बढ़ाने के लिए पैडिंग */
-    font-size: 1.5rem; /* फॉन्ट साइज बड़ा */
-}
-
-.custom-list {
-    padding-left: 20px; /* नंबरिंग के बाद बायीं तरफ जगह */
-    margin: 0; /* डिफॉल्ट मार्जिन हटाओ */
-}
-.custom-list li {
-    margin-bottom: 10px; /* हर लाइन के बीच जगह */
-    text-align: left; /* टेक्स्ट बायीं तरफ एलाइन */
-    padding-left: 10px; /* लिस्ट आइटम में इंडेंट */
-}
